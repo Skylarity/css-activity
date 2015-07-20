@@ -8,7 +8,7 @@
 	<body>
 		<header>
 			<h1>Best Webpage Evar.</h1>
-			<p><small>Cats + Development + CSS = <3</small></p>
+			<p><small>Cats + Development + CSS = &lt;3</small></p>
 		</header>
 		<main>
 			<img src="images/moar-200.jpg" alt="more cat"/>
@@ -58,10 +58,10 @@
 				<div class="form-group">
 					<label for="selectLang">Choose Your Language:</label><br/>
 					<select id="selectLang" class="form-control">
-						<option class="no-option" value="" disabled selected>Choose One! :D</option>
+						<option value="" disabled selected>Choose One! :D</option>
 						<option value="PHP">PHP</option>
 						<option value="JavaScript">JavaScript</option>
-						<option value="CSS">Cobol</option>
+						<option value="Cobol">Cobol</option>
 						<option value="LOLCODE">LOLCODE</option>
 						<option value="Klingon">Klingon (Qapla'!)</option>
 					</select>
