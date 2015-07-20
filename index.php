@@ -15,10 +15,12 @@
 			<p>I'd like to think that I haven't changed those things, sir. Maybe we better talk out here; the observation lounge has turned into a swamp. Commander William Riker of the Starship Enterprise. This should be interesting. You bet I'm agitated! I may be surrounded by insanity, but I am not insane. Earl Grey tea, watercress sandwiches... and Bularian canapés? Are you up for promotion? Mr. Worf, you sound like a man who's asking his friend if he can start dating his sister. You did exactly what you had to do. You considered all your options, you tried every alternative and then you made the hard choice. A surprise party? Mr. Worf, I hate surprise parties. I would *never* do that to you. That might've been one of the shortest assignments in the history of Starfleet. Well, that's certainly good to know. I've had twelve years to think about it. And if I had it to do over again, I would have grabbed the phaser and pointed it at you instead of them.</p>
 			<h2>Table of Commenting Syntax</h2>
 			<table>
-				<tr>
-					<th>Language</th>
-					<th>Syntax</th>
-				</tr>
+				<thead>
+					<tr>
+						<th>Language</th>
+						<th>Syntax</th>
+					</tr>
+				</thead>
 				<tbody>
 					<tr>
 						<td>C++, Java, PHP, CSS, JavaScript</td>
@@ -81,5 +83,8 @@
 			<p>You enjoyed that. A lot of things can change in twelve years, Admiral. I'll alert the crew. What? We're not at all alike! Your head is not an artifact! Why don't we just give everybody a promotion and call it a night - 'Commander'? and attack the Romulans. I suggest you drop it, Mr. Data. Congratulations - you just destroyed the Enterprise.</p>
 			<p>And blowing into maximum warp speed, you appeared for an instant to be in two places at once. Mr. Worf, you do remember how to fire phasers? How long can two people talk about nothing? Some days you get the bear, and some days the bear gets you. Mr. Crusher, ready a collision course with the Borg ship. Fate protects fools, little children and ships named Enterprise. We finished our first sensor sweep of the neutral zone.</p>
 		</main>
+		<footer>
+			<p>Brought to you by: <a href="https://en.wikipedia.org/wiki/LOLCODE" target="_blank">LOLCODE</a> and <a href="http://www.rikeripsum.com/" target="_blank">rikeripsum.com</a></p>
+		</footer>
 	</body>
 </html>
