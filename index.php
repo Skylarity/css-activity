@@ -84,7 +84,7 @@
 			<p>And blowing into maximum warp speed, you appeared for an instant to be in two places at once. Mr. Worf, you do remember how to fire phasers? How long can two people talk about nothing? Some days you get the bear, and some days the bear gets you. Mr. Crusher, ready a collision course with the Borg ship. Fate protects fools, little children and ships named Enterprise. We finished our first sensor sweep of the neutral zone.</p>
 		</main>
 		<footer>
-			<p>Brought to you by: <a href="https://en.wikipedia.org/wiki/LOLCODE" target="_blank">LOLCODE</a> and <a href="http://www.rikeripsum.com/" target="_blank">rikeripsum.com</a></p>
+			<p>Brought to you by: <a href="https://lolcode.org" target="_blank">LOLCODE</a> and <a href="http://www.rikeripsum.com/" target="_blank">rikeripsum.com</a></p>
 		</footer>
 	</body>
 </html>
